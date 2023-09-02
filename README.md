@@ -5,6 +5,6 @@
 <ul>
   <li>
     <a href="">Family</a>
-    <a href="www.github.io/personal.html">Personal</a>
+    <a href="https://haashim-mirza.github.io/539-Discussion/)https://haashim-mirza.github.io/539-Discussion/personal.html">Personal</a>
   </li>
 </ul>
